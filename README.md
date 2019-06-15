@@ -14,12 +14,6 @@ choco install .\packages.config -y
 cinst .\packages.config -y
 ```
 
-> ネットのコンフィグファイルからインストール
-
-```powershell
-cinst https://raw.githubusercontent.com/gekal/choco-package-config/master/packages.config -y
-```
-
 ## 参照情報
 
 1．[Windowsのパッケージ管理ツール](https://www.gekal.cn/blogs/2018/03/12/windows-package-manager.html)
